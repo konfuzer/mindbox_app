@@ -12,6 +12,7 @@
 
 ```bash
 python main.py
+```
 
 
 ## ✅ Результат
