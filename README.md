@@ -7,7 +7,7 @@
 - Продукты без категорий (в `category_name` будет `null`)
 
 
-* 🚀 Запуск *
+*🚀 Запуск*
 
 
 ```bash
@@ -26,12 +26,12 @@ python main.py
 |Масло       |null          |
 
 
-## 🧪 Тестирование
+*🧪 Тестирование*
 
 ```bash
 pytest
 
-## 🛠️ Зависимости
+*🛠️ Зависимости*
 
 pip install -r requirements.txt
 
